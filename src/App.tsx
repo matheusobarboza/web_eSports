@@ -111,6 +111,16 @@ function App() {
                     </div>
                   </div>
                 </div>
+
+                <div>
+                  <input type="checkbox" />
+                  Costumo me conectar ao chat de voz
+                </div>
+
+                <footer>
+                  <button>Cancelar</button>
+                  <button type="submit">Encontrar duo</button>
+                </footer>
               </form>
             </Dialog.Content>
           </Dialog.Content>
